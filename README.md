@@ -56,7 +56,8 @@ Circuito
 ![image](https://user-images.githubusercontent.com/105671364/171090374-4f18a365-716c-426b-81fb-e34ac03a9a8c.png)
 
 ## 4. RESPUESTA A INTERROGANTES Y CÁLCULO DEL ERROR
-![image](https://user-images.githubusercontent.com/105671364/171091507-121599be-82fd-4b5f-940a-47096877cf47.png)
+![image](https://user-images.githubusercontent.com/105681693/171228857-ac0c5ed7-729f-4334-90a3-97cd3744692a.png)
+
 
 ## 5. VIDEO
 ## 6. CONCLUSIONES
