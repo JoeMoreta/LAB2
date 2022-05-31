@@ -59,8 +59,9 @@ Circuito
 ## 4. RESPUESTA A INTERROGANTES Y CÁLCULO DEL ERROR
 ![image](https://user-images.githubusercontent.com/105681693/171228857-ac0c5ed7-729f-4334-90a3-97cd3744692a.png)
 
-
 ## 5. VIDEO
+https://youtu.be/jNSUUSuVlm8
+
 ## 6. CONCLUSIONES
 - LVK sirve como apoyo para conocer la función del método de la corriente de malla
 - La comprobación de valores en las tablas planteadas ayuda a conocer de una manera mas concreta como funciona un circuito.
