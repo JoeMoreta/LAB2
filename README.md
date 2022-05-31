@@ -37,7 +37,8 @@ Con esto entendido, procedemos a identificar las corrientes que pasan por cada u
 ![image](https://user-images.githubusercontent.com/105696051/170636763-c731eada-3e72-40ab-a9f1-02ce434734a7.png)
 ![image](https://user-images.githubusercontent.com/105696051/170636899-fce94fcd-b9a4-43dc-82ee-fc1b6fc75245.png)
 #### Resultado Experimentales
-![image](https://user-images.githubusercontent.com/105671364/171089917-eda852aa-2fbc-4e36-bfd8-5e1368f7bc77.png)
+![image](https://user-images.githubusercontent.com/105681693/171229811-046fb42d-1ebf-4af3-aa08-a38cc765ec75.png)
+
 Circuito
 ![image](https://user-images.githubusercontent.com/105671364/171089955-5063e7f4-324e-4ea8-9b76-222a54724758.png)
 #### MALLA 1:
